@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6784996680a70010a7bfe48e46deff32</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>a514d16653a700103a33ddeeff7b12ad</scope_name>
+        <serialized_content>{"FlowDesigner:FD6784996680a70010a7bfe48e46deff32":{"variable_child2":"String","variable_child2.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"variable_child2\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"variable_child1":"String","variable_child1.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"variable_child1\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD6784996680a70010a7bfe48e46deff32.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6784996680a70010a7bfe48e46deff32\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"variable\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"65000\",\"uiUniqueId\":\"0b43ea0a-2848-4b30-8a53-9f18d9ac57ef\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 11:12:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b84996653a700103a33ddeeff7b1232</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6784996680a70010a7bfe48e46deff32</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mkmn" source="sn_mkmn">a514d16653a700103a33ddeeff7b12ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mkmn">a514d16653a700103a33ddeeff7b12ad</sys_scope>
+        <sys_update_name>sys_complex_object_2b84996653a700103a33ddeeff7b1232</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 11:12:27</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
